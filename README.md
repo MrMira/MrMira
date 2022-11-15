@@ -1,5 +1,4 @@
-### Eu sou o Miguel, estudante na UFABC e fissurado em programação!
+### Hello. My name is Miguel. I'm graduate as bachelor of science technology at the UFABC and I like programming!
 
-Esse é meu GitHub. Por enquanto ele está com poucos projetos porque ainda estou construindo o meu portifólio.
-
-This is my GitHub. For now it has only a few projects because I am still building my portfolio.
+I have strong interest in architecture and performance of enterprise applications and low-level programming in general.
+I participate in a student organization about hacking called Green Team Hacker Club (GTHC) where I teach programming to freshmen.
