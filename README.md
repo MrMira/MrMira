@@ -1,4 +1,4 @@
-### Hello. I'm Miguel. I'm graduate as bachelor of science technology at the UFABC and I like programming!
+### Hello. I'm Miguel. I'm graduate as bachelor of science technology at UFABC and I like programming!
 
 I have strong interest in architecture and performance of enterprise applications and low-level programming in general.
 
